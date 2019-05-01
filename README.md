@@ -1,7 +1,7 @@
 # pxd-to-wav
 PXD to WAV converter
 
-DLL link: https://www107.zippyshare.com/v/um9Z20Ue/file.html (Currently down, will re-upload)
+DLL link: https://1drv.ms/u/s!Aoi5JP1ZB3HGqlXjlJIsoyoflNcG
 
 
 ## Instructions
