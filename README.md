@@ -1,3 +1,12 @@
+## No longer maintained!
+
+The converter in this repository does not work on Windows 10,
+thus the code will remain for educational purpose only.
+
+Please head over to https://github.com/paator/PXDConverter to use a Windows <> 10 compilant version.
+
+----
+
 # pxd-to-wav
 PXD to WAV converter
 
